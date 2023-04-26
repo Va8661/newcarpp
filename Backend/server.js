@@ -46,5 +46,5 @@ pool.on("error", (err) => {
 
 const port = 5000; // Use any port of your choice
 app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
+  console.log(`Server running on http://localhost:5000`);
 });
